@@ -1,12 +1,5 @@
 # JpaTest - Error Stack:
 -------------------------------------------
-
-  .   ____          _            __ _ _
- /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
-( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
- \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
-  '  |____| .__|_| |_|_| |_\__, | / / / /
- =========|_|==============|___/=/_/_/_/
  :: Spring Boot ::               (v2.7.12)
 
 2023-06-29 08:35:52.983  INFO 13136 --- [           main] com.jpaTst.JpaTestApplication            : Starting JpaTestApplication using Java 17 on DESKTOP-746K581 with PID 13136 (C:\Users\Shain Joy\OneDrive\IT Class Room\Java Workspace\Eclipse Projects\Revision\JpaTest\target\classes started by Shain Joy in C:\Users\Shain Joy\OneDrive\IT Class Room\Java Workspace\Eclipse Projects\Revision\JpaTest)
